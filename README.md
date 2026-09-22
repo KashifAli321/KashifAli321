@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kashif Ali
 
-<!--
-**KashifAli321/KashifAli321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelancer helping local businesses get more leads — Social Media Management, GoHighLevel CRM Automation, Google Business Profile & Reputation.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Social Media Management
+- GoHighLevel CRM Automation
+- Google Business Profile & Reputation
+
+## Find me
+
+- [Fiverr](https://www.fiverr.com/kashif_ali_123)
+- [LinkedIn](https://www.linkedin.com/in/kashif-sattar-3a5a143a0/)
+- [X](https://x.com/KashifAli_321)
+
+## Open-source / personal projects
+
+My repositories here are open-source and personal projects — not client work.
